@@ -1,0 +1,8 @@
+.global-class-name{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
